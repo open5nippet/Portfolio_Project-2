@@ -1,6 +1,3 @@
-Of course\! Here is a `README.md` file for your portfolio project. You can copy and paste this text into a new file named `README.md` in your project's folder.
-
------
 
 # My Portfolio Project 2
 
